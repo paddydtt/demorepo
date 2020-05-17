@@ -1,3 +1,3 @@
-Intro to GIT
+#Intro to GIT
 
 Text will go here

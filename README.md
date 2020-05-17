@@ -1,4 +1,3 @@
 # demorepo
 
-This repo is used for showing demos during sessions,
-Part of the repo
+This repo is used for showing demos during sessions
